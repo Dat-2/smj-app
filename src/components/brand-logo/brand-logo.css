@@ -1,0 +1,10 @@
+.brand-logo-container {
+    width: 50%;
+    display: inline-block;
+}
+.brand-image {
+    width: 100%;
+}
+.brand-logo-image-container {
+    padding: 5px;
+}
