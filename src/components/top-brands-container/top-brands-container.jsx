@@ -7,12 +7,12 @@ class TopBrandsContainer extends React.Component {
         return (
             <div className="top-brands">
                 <h1 className="title">{this.props.title}</h1>
-                <BrandLogo src="https://shopmarijuana.com/wp-content/uploads/2017/02/nccbanneradsmj.jpg"/>
-                <BrandLogo src="https://shopmarijuana.com/wp-content/uploads/2017/02/nccbanneradsmj.jpg"/>
-                <BrandLogo src="https://shopmarijuana.com/wp-content/uploads/2017/02/nccbanneradsmj.jpg"/>
-                <BrandLogo src="https://shopmarijuana.com/wp-content/uploads/2017/02/kivabanner.jpg"/>
-                <BrandLogo src="https://shopmarijuana.com/wp-content/uploads/2017/02/kivabanner.jpg"/>
-                <BrandLogo src="https://shopmarijuana.com/wp-content/uploads/2017/02/kivabanner.jpg"/>
+                <BrandLogo src="./images/abxtopbrand.png"/>
+                <BrandLogo src="./images/bhangtopbrand.png"/>
+                <BrandLogo src="./images/cbdtopbrand.png"/>
+                <BrandLogo src="./images/kivatopbrand.png"/>
+                <BrandLogo src="./images/korovatopbrand.png"/>
+                <BrandLogo src="./images/naturalcannabistopbrand.png"/>
             </div>
         );
     }
